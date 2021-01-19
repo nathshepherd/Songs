@@ -1,3 +1,5 @@
+A basic React application to practice the use of Redux within React. I made this project during a Udemy course, found [here](https://www.udemy.com/course/react-redux/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
