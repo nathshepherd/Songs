@@ -1,4 +1,4 @@
-<p> A basic React application to practice the use of Redux within React. It provides an interface for the user to add/remove songs from the redux database via the UI and then presents those songs to the user in a list. </p>
+<p>A basic React application to practice the use of Redux within React. It provides an interface for the user to add/remove songs from the redux database via the UI and then presents those songs to the user in a list on the front page.</p>
 
 # Made with Create React App
 
